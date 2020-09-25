@@ -6,4 +6,4 @@ Ala ma kota.
 Kot ma gita.
 Olo ma myszo.
 
-Myszo ma gita.
+Misio ma gita.
