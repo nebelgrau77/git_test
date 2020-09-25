@@ -5,3 +5,5 @@ Learning how git works.
 Ala ma kota.
 Kot ma gita.
 Olo ma myszo.
+
+Misio ma gita.
